@@ -1,0 +1,5 @@
+30-01-2026 16:36:51: Fetched all employees
+30-01-2026 16:37:05: Fetched employee with ID 2
+30-01-2026 16:37:11: Deleted employee with ID 4
+30-01-2026 16:37:39: Created employee Ram
+30-01-2026 16:37:46: Fetched all employees
